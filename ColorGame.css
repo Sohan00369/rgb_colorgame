@@ -1,0 +1,39 @@
+body {
+    margin :0;
+    background-color: #232323;
+
+}
+
+.squers{
+
+background-color: blue;
+width:30%;
+margin: 1.33%;
+padding:13px;
+height: 30px;
+float:left;
+
+
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    color:#ffff;
+    background-color: steelblue;
+}
+#container{
+    margin: 0 auto;
+}
+.strip{
+    background-color: #ffff;
+    height:26px;
+    width:100% ;
+    color:#ffff;
+}
+button{
+    background: none;
+    outline: none;
+    border:none;
+    margin: 0 auto;
+
+}
